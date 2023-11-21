@@ -8,7 +8,13 @@ Testing Testing one two three ...
 # QUIZ TEST
 
 ?[Does this test work?]
-[ ] Yes
-[ ] Definitely
-[ ] Perhaps
-[X] Ask again later
+-[ ] Yes
+-[ ] Definitely
+-[ ] Perhaps
+-[X] Ask again later
+
+# You can add equations
+
+'''math
+P(A/B) = \frac{P(B | A) P(A)}{P(B)}
+'''
