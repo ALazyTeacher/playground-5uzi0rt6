@@ -15,5 +15,6 @@ Testing Testing one two three ...
 
 # You can add equations
 
-
-inline formula: $'P(A/B) = \frac{P(B | A) P(A)}{P(B)}'$
+```math
+P(A/B) = \frac{P(B | A) P(A)}{P(B)}
+```
